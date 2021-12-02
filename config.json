@@ -1,0 +1,5 @@
+{
+  "API_NAME": "apitestfinal",
+  "LAMBDA_FUNCTION": "testfunction",
+  "STAGE_NAME": "dev"
+}
