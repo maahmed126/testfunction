@@ -1,6 +1,6 @@
 {
   "AppConfig": {
-    "API_NAME": "apitestfinal",
+    "API_NAME": "apitestfinaltest",
     "LAMBDA_FUNCTION": "testfunction",
     "STAGE_NAME": "dev"
   }
