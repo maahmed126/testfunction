@@ -1,7 +1,6 @@
 {
   "AppConfig": {    
-    "FUNCTION_NAME": "testfunction",
-    "STAGE_NAME": "dev"
+    "FUNCTION_NAME": "testfunction"
   }
 }
 
